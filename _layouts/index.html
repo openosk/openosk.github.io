@@ -4,9 +4,6 @@
 {% include head.html %}
 
 <body>
-	<div id="preloader">
-        <div class="loader-gplus"></div>
-	</div>
 	<div id="st-container" class="st-container">
 		<div class="st-pusher">
 			<div class="st-content">
@@ -38,7 +35,7 @@
 	<script src="{{ "/js/typed.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/js/waves.min.js" | prepend: site.baseurl }}"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-    <script>
+	<script>
         //Location properties
         var googleMaps = 'index';
         var eventPlace = new google.maps.LatLng({{site.eventPlaceCoordinates}});
@@ -49,21 +46,21 @@
         var twitterFeedUrl = '{{ site.twitterFeed }}';
 
         $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
-            }
-            $(function () {
-                $("#typeout-text").typed({
-                    strings: [{{site.typeoutTextValues}}],
-                    typeSpeed: 150,
-                    backDelay: 900,
-                    loop: true
-                });
-            });
+        	var bodyColor = $('body').css('color');
+        	if (bodyColor != 'rgb(51, 51, 51)') {
+        		$("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
+        	}
+        	$(function () {
+        		$("#typeout-text").typed({
+        			strings: [{{site.typeoutTextValues}}],
+        			typeSpeed: 150,
+        			backDelay: 900,
+        			loop: true
+        		});
+        	});
         });
     </script>
-	<script src="{{ "/js/scripts.min.js " | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.min.js " | prepend: site.baseurl }}"></script>
 </body>
 
 </html>
