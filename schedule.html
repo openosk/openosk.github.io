@@ -1,0 +1,15 @@
+---
+layout: default
+title: Event Schedule
+permalink: /schedule/
+modal: all
+---
+
+{% include header.html %}
+
+{% if site.showSessions %}
+    {% include schedule-table.html %}
+{% else %}
+    {% include speakers-list-2.html %}
+{% endif %}
+
