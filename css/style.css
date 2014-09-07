@@ -297,7 +297,7 @@ h6 {
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 2em 0 0 5em;
+    padding: 2em 5em 0 5em;
     -webkit-transition: all .3s;
     transition: all .3s;
 }
@@ -323,7 +323,7 @@ nav ul {
     line-height: 70px;
     position: relative;
     z-index: 10;
-    float: left;
+    float: right;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -356,7 +356,7 @@ nav ul > li > a {
 }
 nav ul > li > a.current, nav ul > li > a:hover {
     text-decoration: none;
-    color: #444;
+    color: #44D394;
 }
 .dark-header nav ul > li > a.current, .dark-header nav ul > li > a:hover {
     color: #fff;
@@ -435,7 +435,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     position: relative;
     min-height: 600px;
     padding-top: 0;
-    background: #03a9f4;
+    background: #222;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
