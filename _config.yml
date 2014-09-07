@@ -8,8 +8,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: Software Freedom Day 2014
 email: info@nosk.org.np
 description: "Software Freedom Day is celebrated all around the Globe"
-baseurl: "/nosk-sfd"
-url: ""
+baseurl: ""
+url: "http://openosk.github.io/"
 permalink: /blog/:title
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
