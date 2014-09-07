@@ -1279,7 +1279,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     position: absolute;
     top: -.4em;
     left: .8em;
-    color: #fff;
+    color: #444;
 }
 .map-card {
     font-size: 1.2em;

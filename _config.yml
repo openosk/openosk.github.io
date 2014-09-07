@@ -30,7 +30,7 @@ logisticsMapCenterCoordinates: "27.671387, 85.338811"
 logisticsMapMobileCenterCoordinates: "27.671387, 85.338811"
 
 #Tweets feed
-twitterHashTag: "sfd2014"
+twitterHashTag: "sfdWithNosk"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
@@ -62,10 +62,10 @@ showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
-twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
-fbFollowUsUrl: "https://facebook.com/GDGLviv"
+gplusFollowUsUrl: "https://plus.google.com/communities/110589297196280370630"
+twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=open_nosk"
+fbFollowUsUrl: "https://facebook.com/nosklub"
 
 # Blog
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "openosk"
