@@ -21,13 +21,13 @@ eventStartTime: "2014-10-18T10:00"
 eventStartTimeHumanReadable: "10:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "27.671387, 85.338811"
+mapCenterCoordinates: "27.671387, 85.338811"
+mapMobileCenterCoordinates: "27.671387, 85.338811"
 
 # Logistics Location Block
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "27.671387, 85.338811"
+logisticsMapMobileCenterCoordinates: "27.671387, 85.338811"
 
 #Tweets feed
 twitterHashTag: "sfd2014"
