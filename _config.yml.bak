@@ -9,7 +9,11 @@ title: Software Freedom Day 2014
 email: info@nosk.org.np
 description: "Software Freedom Day is celebrated all around the Globe"
 baseurl: ""
+<<<<<<< HEAD
+url: ""
+=======
 url: "http://openosk.github.io/"
+>>>>>>> ccd18e6083429913783e81d66cf913095c974918
 permalink: /blog/:title
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
