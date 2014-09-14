@@ -53,16 +53,45 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
-  id: 7 #visible on index
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 7
+  name: "Anit"
+  surname: "Chaudhary"
+  title: "Contributer"
+  thumbnailUrl: anit.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+chaudharyanit07"}
+    - {name: "twitter", link: "https://twitter.com/greyhatanit"}
+    - {name: "github", link: "https://github.com/Greyhatanit"}
+-  
+  id: 8
+  name: "saroj"
+  surname: "sapkota"
+  company: "NOSK"
+  title: "contributer"
+  thumbnailUrl: Saroj.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: " https://twitter.com/sarozsapkota"}
+-
+id:9
+ name: "Nitesh"
+  surname: "Rijal"
+  company: "NOSK"
+  title: "Founder"
+  bio: "IT Engineer"
+  thumbnailUrl: https://pbs.twimg.com/profile_images/3513943022/e430f6122379fb5bc4e2f6e1a23406ac_bigger.png 
+
+  rockstar:     #Do not fill this area
+ 
+ ribbon: 
+    - {abbr: "NOSK SFD", title: "Organizer", url: "niteshrijal.com.np "}#Facebook profile page link would work great for url section
+
+                #IF associated with any other Comapny or Groups or Communities then just add the line presented below
+                #   - {abbr: "Comapny or Groups or Communities", title: "# Your Position at particular Comapny or Groups or Communities", url: "*if present Comapny or Groups or    Communities profile web link Otherwise Facebook profile page link would work great for url section"}
+ 
+ social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+NiteshRijal"} # link:"Your Google+ profile link" 
+    - {name: "twitter", link: "https://twitter.com/openrijal"}
+
+ 
