@@ -4,4 +4,4 @@ We invite anyone interested to join us.
 
 More Details: nosk.org.np
 
-SFD Webtie: sfd.nosk.org.np
+SFD Website: sfd.nosk.org.np
