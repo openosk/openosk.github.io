@@ -10,7 +10,7 @@
   ribbon: 
     - {abbr: "SFD", title: "Contributer"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://plus.google.com/+prakashyadav9"}
 - 
   id: 4
   name: "Ojesh"
@@ -23,7 +23,6 @@
   ribbon: 
     - {abbr: "SFD", title: "Contributer"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/108180567381542329789"}
     - {name: "twitter", link: "https://twitter.com/ojeshrimal"}
     - {name: "Facebook", link: "https://facebook.com/ojeshrimal"}
 - 
@@ -53,45 +52,15 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
-  id: 7
+  id: 7 #visible on index
   name: "Anit"
   surname: "Chaudhary"
+  company: "NOSK"
   title: "Contributer"
+  bio: "Web Programmer"
   thumbnailUrl: anit.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "SFD", title: "Google Developer Group", url: "https://plus.google.com/+greyhatanit"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+chaudharyanit07"}
-    - {name: "twitter", link: "https://twitter.com/greyhatanit"}
-    - {name: "github", link: "https://github.com/Greyhatanit"}
--  
-  id: 8
-  name: "saroj"
-  surname: "sapkota"
-  company: "NOSK"
-  title: "contributer"
-  thumbnailUrl: Saroj.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: " https://twitter.com/sarozsapkota"}
--
-id:9
- name: "Nitesh"
-  surname: "Rijal"
-  company: "NOSK"
-  title: "Founder"
-  bio: "IT Engineer"
-  thumbnailUrl: https://pbs.twimg.com/profile_images/3513943022/e430f6122379fb5bc4e2f6e1a23406ac_bigger.png 
-
-  rockstar:     #Do not fill this area
- 
- ribbon: 
-    - {abbr: "NOSK SFD", title: "Organizer", url: "niteshrijal.com.np "}#Facebook profile page link would work great for url section
-
-                #IF associated with any other Comapny or Groups or Communities then just add the line presented below
-                #   - {abbr: "Comapny or Groups or Communities", title: "# Your Position at particular Comapny or Groups or Communities", url: "*if present Comapny or Groups or    Communities profile web link Otherwise Facebook profile page link would work great for url section"}
- 
- social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+NiteshRijal"} # link:"Your Google+ profile link" 
-    - {name: "twitter", link: "https://twitter.com/openrijal"}
-
- 
+    - {name: "google-plus", link: "https://google.com/+greyhatanit"}

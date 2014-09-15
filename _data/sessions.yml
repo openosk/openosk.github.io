@@ -20,8 +20,8 @@
   language: en
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: " "
+  description:  " "
   track: android
   subtype: presentation
   speakers: [5]
@@ -30,8 +30,8 @@
   language: en
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: " "
+  description: " "
   track: web
   subtype: keynote
   speakers: [6]
@@ -40,8 +40,8 @@
   language: uk
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: ""
+  description: ""
   track: web
   subtype: keynote
   speakers: [7]
