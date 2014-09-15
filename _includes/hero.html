@@ -4,12 +4,13 @@
     {% include navigation.html %}
 
     <div class="jumbotron">
-      <h3>{{site.eventName}} 2014</h3>
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+        <div class="textwidget" style="position:relative;top:10%;left:0%px;"><a href="http://www.softwarefreedomday.org/"><img src="http://www.softwarefreedomday.org/countdown/banner1-UTC+5.45-en.png" border="0" width="250" height="150" alt="Celebrate SFD with us on September 15!"></a>
+		</div>
+		<div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1><span id="typeout-text"></span></h1>
             <p>{{site.eventDate}}</p>
             <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-                <a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+                <a href="{{site.baseurl}}/speakers" target="_blank">SFD Team</a>
             </span>
         </div>
     </div>
