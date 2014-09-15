@@ -1,56 +1,49 @@
 <!-- Begin Speakers List-->
+<a href="http://www.softwarefreedomday.org/"><img src="http://www.softwarefreedomday.org/countdown/banner1-UTC-4-en.png" border="0" width="160" height="90" alt="Celebrate SFD with us on September 20, 2014!"></a>
 <section id="speakers">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+    <div class="container">
             <div class="row text-left">
-                {% for speaker in site.data.speakers %}
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
-                                <div class="overlay"></div>
-                                {% if speaker.ribbon != null %}
-                                <ul class="speaker-ribbon-wrapper">
-                                    {% for ribbon in speaker.ribbon %}
-                                    <li class="{{ ribbon["abbr"] | downcase }}">
-                                        <p class="speaker-ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                        <p class="speaker-ribbon full-title">{{ ribbon["title"] }}</p>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-                                {% endif %}
-                                {% if site.showSessions %}
-                                <figcaption>
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
-                                </figcaption>
-                                {% endif %}
-                            </figure>
-                        </div>
-                        <div class="speaker-bottom">
-                            <ul class="slider">
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
-                                            {% if session_speaker == speaker.id %}
-                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
-                                {% else %}
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
-                                {% endif %}
-                            </ul>
-                        </div>
-                        <a href="#" class="slider-next-item hidden">Next</a>
-                    </div>
+                <div class="table-responsive">
+				Web Squat
+                    <table class="table table-bordered" border='1px'>
+                        <thead>
+                            <tr>
+                                <th style="text-align:center">Name</th>                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><a href=" ">Aasish Limbu</a></td>                               
+                            </tr>
+							<tr>								
+								<td><a href="">Anit Chaudhary</a></td>
+							</tr>
+							
+							<tr>
+								<td><a href=" ">Sandip Pokhrel</a></td>
+							</tr>
+							<tr>
+                                <td><a href=" ">Rabindra Acharya</a></td>
+                            </tr>
+							<tr>
+                            	<td><a href=" ">Dipika Rai</a></td>
+                            </tr>
+							<tr>
+								<td><a href=" ">Nimesh Ghimire</a></td>
+							
+							</tr>
+							<tr>
+								<td><a href=" ">Rajeshwor Yadav</a></td>
+							</tr>
+							<td><a href=" ">Rohini Rajbhandari</a></td>
+							</tr>				
+                        </tbody>
+                    </table>
                 </div>
-                {% endfor %}
+
             </div>
-            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise" style="margin-top: 25px;">
-               <a class="bottom-section-link" href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
-            </span>        
+
         </div>
     </div>
 </section>
