@@ -1,7 +1,7 @@
 - 
   id: 0
   name: "Prakash"
-  surname: " Yadav"
+  surname: "Yadav"
   title: "Memebr of NOSK"
   thumbnailUrl: PrakashYadav.jpg
   team: true
@@ -14,7 +14,7 @@
 - 
   id: 1
   name: "Rabindra"
-  surname: " Acharya"
+  surname: "Acharya"
   title: "Memebr of NOSK"
   thumbnailUrl: Rabindra.jpg
   team: true
@@ -25,7 +25,7 @@
 - 
   id: 2
   name: "Sandip"
-  surname: " Pokhrel"
+  surname: "Pokhrel"
   title: "Memebr of NOSK"
   thumbnailUrl: Sandip.jpg
   team: true
@@ -36,7 +36,7 @@
 - 
   id: 8
   name: "Anit"
-  surname: " Chaudhary"
+  surname: "Chaudhary"
   title: "Memebr of NOSK"
   thumbnailUrl: anit.JPG
   team: true
