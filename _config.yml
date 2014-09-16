@@ -30,15 +30,15 @@ logisticsMapCenterCoordinates: "27.671387, 85.338811"
 logisticsMapMobileCenterCoordinates: "27.671387, 85.338811"
 
 #Tweets feed
-twitterHashTag: "sfdWithNosk"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "sfdNosk14"
+twitterFeed: "http://twitter.com/open_nosk"
 
 # Subscribe
 subscribeAction: ""
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "http://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
 metaKeywords: "event, sfd, nosk, opensource, sfd2014"
@@ -55,7 +55,7 @@ typeoutTextValues: '"", "Presentation", "Talks", "Distro Demo", "Software Demo",
 eventName: "Software Freedom Day"
 
 # Team Block
-aboutUs: Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences.
+aboutUs: NOSK stands for Nepal Open Source Klub. It was established in 28th Feb 2008 by the FOSS enthusiastic students from NCIT (Nepal College of Information Technology), Balkumari, Lalitpur, Nepal.
 
 # Speakers List Block
 showSessions: true

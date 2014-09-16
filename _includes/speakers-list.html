@@ -1,11 +1,11 @@
 <!-- Begin Speakers List-->
-{% include team.html %}
 <section id="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left">
+				<h4 class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">SFD Management Team</h4>
                 {% for speaker in site.data.speakers %}
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
+                <div class="team-item-wrapper col-md-3 col-sm-6 col-xs-12">
                     <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
                         <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                             <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
@@ -55,4 +55,5 @@
         </div>
     </div>
 </section>
+{% include team.html %}
 <!-- End Speakers List -->

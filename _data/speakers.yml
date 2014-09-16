@@ -1,66 +1,69 @@
 - 
   id: 3 
-  name: "Prakash" #Dawid
-  surname: "Yadav" #Ostrowski
+  name: "Nitesh"
+  surname: "Rijal"
   company: "NOSK"
-  title: "Contributer At NOSK"
-  bio: "asdfghjkl"
-  thumbnailUrl: PrakashYadav.jpg
+  title: "Founder of NOSK"
+  bio: "IT Engineer"
+  thumbnailUrl: Nitesh.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "SFD", title: "Contributer"}
+    - {abbr: "SFD", title: "Organizer", url: "niteshrijal.com.np"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+prakashyadav9"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+NiteshRijal"}
+    - {name: "twitter", link: "https://twitter.com/openrijal"}
 - 
   id: 4
   name: "Ojesh"
   surname: "Rimal"
-  company: "Sajhamart"
-  title: "Co-founder of Sajhamart and Kapas"
+  company: "NOSK"
+  title: "Member"
   bio: ""
   thumbnailUrl: OjeshRimal.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "SFD", title: "Contributer"}
+    - {abbr: "SFD", title: "Organizer", url: "https://facebook.com/ojeshrimal"}
   social: 
     - {name: "twitter", link: "https://twitter.com/ojeshrimal"}
     - {name: "Facebook", link: "https://facebook.com/ojeshrimal"}
 - 
   id: 5
-  name: "Rabindra"
-  surname: "Acharya"
-  company: "Nosk"
-  title: "Contributer"
-  bio: "PHP Developer"
-  thumbnailUrl: Rabindra.jpg
+  name: "Dipesh"
+  surname: "Kumar"
+  company: "NOSK"
+  title: "Member"
+  bio: " "
+  thumbnailUrl: DipeshKumar.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "SFD", title: "contributer", url: "https://plus.google.com/+acharya.rabindra2000"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+acharya.rabindra2000"}
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: "http://about.me/dipeshkumar"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/aaryadip"}
+    - {name: "google-plus", link: "https://google.com/+DipeshKumar"}
 - 
   id: 6
-  name: "Sandip"
-  surname: "Pokhrel"
-  company: "NOSk"
-  title: "Contributer"
-  bio: "PHP Developer"
-  thumbnailUrl: Sandip.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "SFD", title: "contributer", url: "https://plus.google.com/+sandip.pokhrel02"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
-- 
-  id: 7 #visible on index
-  name: "Anit"
-  surname: "Chaudhary"
+  name: "Surendra"
+  surname: "Shrestha"
   company: "NOSK"
-  title: "Contributer"
-  bio: "Web Programmer"
-  thumbnailUrl: anit.jpg
+  title: "Member"
+  bio: " "
+  thumbnailUrl: Surendra.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/smartsuren"}
+  social: 
+    - {name: "Facebook", link: "https://www.facebook.com/smartsuren"}
+- 
+  id: 7
+  name: "Surit"
+  surname: "Aryal"
+  company: "NOSK"
+  title: "Member"
+  bio: " "
+  thumbnailUrl: Surit.jpg
   rockstar: true
   ribbon:
-    - {abbr: "SFD", title: "Google Developer Group", url: "https://plus.google.com/+greyhatanit"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+greyhatanit"}
+    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/M9Bdmu"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/imsurit"}
+    - {name: "google-plus", link: "https://plus.google.com/+SuritAryal"}

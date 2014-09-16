@@ -1,60 +1,178 @@
 - 
   id: 0
-  name: "Nitesh"
-  surname: "Rijal"
-  title: " "
-  thumbnailUrl: Nitesh.jpg
+  name: "Prakash"
+  surname: " Yadav"
+  title: "Memebr of NOSK"
+  thumbnailUrl: PrakashYadav.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/yadavprakash9"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+prakashyadav9"} 
+    - {name: "github", link: "https://github.com/prakashyadav9"}
+    - {name: "facebook", link: "https://www.facebook.com/yadavprakash9"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Rabindra"
+  surname: " Acharya"
+  title: "Memebr of NOSK"
+  thumbnailUrl: Rabindra.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+acharya.rabindra2000"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+acharya.rabindra2000"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Sandip"
+  surname: " Pokhrel"
+  title: "Memebr of NOSK"
+  thumbnailUrl: Sandip.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+sandip.pokhrel02"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 8
+  name: "Anit"
+  surname: " Chaudhary"
+  title: "Memebr of NOSK"
+  thumbnailUrl: anit.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+greyhatanit"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+greyhatanit"}
+    - {name: "github", link: "https://github.com/Greyhatanit"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 9
+  name: "saroj"
+  surname: "sapkota"
+  title: "Memebr of NOSK"
+  thumbnailUrl: Saroj.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
+- 
+  id: 11
+  name: " Rajeshwor"
+  surname: "Yadav"
+  title: "Memebr of NOSK"
+  thumbnailUrl: RajeshworYadav.JPG
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/111707828797595681208"}
+  social:
+    - {name: "Facebook ", link: "https://www.facebook.com/rajeshwor.yadav.5"}
+    - {name: "Google-plus ", link: "https://plus.google.com/u/0/111707828797595681208"}
+    - {name: "Twitter ", link: "http://twitter.com/Rajeshworyadav"}
+    - {name: "Wikipedia ", link: "http://en.wikipedia.org/wiki/User:Rajeshworyadav"} 
+- 
+  id: 13
+  name: "Deipika"
+  surname: "Rai"
+  title: "Memebr of NOSK"
+  thumbnailUrl: dipika.png
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team", url: ""}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 14
+  name: "Akriti"
+  surname: "Bhusal"
+  title: "Member of NOSK"
+  thumbnailUrl: Akriti.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AkritiBhusal"}
+  social:
+    - {name: "Facebook", link: "http://www.facebook.com/akriti.bhusal"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AkritiBhusal"}
+- 
+  id: 15
+  name: "Sapan"
+  surname: "Shrestha"
+  title: "Member of NOSK"
+  thumbnailUrl: Sapan.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: ""}
+  social:
+    - {name: "Facebook", link: "https://www.facebook.com/thesapanbruk"}
+- 
+  id: 16
+  name: "Bishesh Man"
+  surname: "Singh"
+  title: "Member of NOSK"
+  thumbnailUrl: Bishesh.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: " "}
+  social:
+    - {name: "Facebook", link: "https://www.facebook.com/mansinghbishesh63"}
+- 
+  id: 21
+  name: "Regan"
+  surname: "Maharjan"
+  title: "Member of NOSK"
+  thumbnailUrl: regan.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: " "}
+  social:
+    - {name: "Facebook", link: " "}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+regan"}
+
+- 
+  id: 22
+  name: "Nischal"
+  surname: "Karki"
+  title: "Member of NOSK"
+  thumbnailUrl: Nischal.jpg
+  subTeam1: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: " "}
+  social:
+    - {name: "Facebook", link: " "}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+nischalkarki97"}
+-
+  id: 23
+  name: "Sagar"
+  surname: "Ghimire"
+  title: "Member of NOSK"
+  thumbnailUrl: sag.jpg
+  subTeam1: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: " "}
+  social:
+    - {name: "Facebook", link: " "}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+thedarklordburns"}
+-
+  id: 23
+  name: "Pratik"
+  surname: "Shahi"
+  title: "Member of NOSK"
+  thumbnailUrl: pratik.jpg
+  subTeam1: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: " "}
+  social:
+    - {name: "Facebook", link: " "}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+pratik"}
+-
+  id: 10
+  name: "Sworup"
+  surname: "Shrestha"
+  title: "Memebr of NOSK"
+  thumbnailUrl: Sworup.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/sworup31rocks"}
+  social: 
+    - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}

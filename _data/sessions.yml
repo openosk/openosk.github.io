@@ -1,8 +1,8 @@
 -
   id: 001
-  title: "Contributer"
-  description: "Web design team"
-  track: WEB
+  title: "Organizer"
+  description: "SFD Management Team"
+  track: Manager
   subtype: workshop
   speakers: [3]
   startTimeStamp: 1382774400
@@ -10,8 +10,8 @@
   language: en
 -
   id: 002
-  title: "Co-founder of Sajhamart and Kapas"
-  description: "Manager for SFD"
+  title: "Organizer"
+  description: "SFD Management Team"
   track: Manager
   subtype: Workshop
   speakers: [4]
@@ -20,31 +20,51 @@
   language: en
 -
   id: 003
-  title: " "
-  description:  " "
-  track: android
-  subtype: presentation
+  title: "Organizer"
+  description:  "SFD Management Team"
+  track: Manager
+  subtype: Workshop
   speakers: [5]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
   language: en
 -
   id: 004
-  title: " "
-  description: " "
-  track: web
-  subtype: keynote
+  title: "Organizer"
+  description: "SFD Management Team"
+  track: Manager
+  subtype: Workshop
   speakers: [6]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: uk
+  language: en
 -
   id: 005
-  title: ""
-  description: ""
-  track: web
-  subtype: keynote
+  title: "Organizer"
+  description: "SFD Management Team"
+  track: Manager
+  subtype: Workshop
   speakers: [7]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 006
+  title: "Organizer"
+  description: "SFD Management Team"
+  track: Manager
+  subtype: Workshop
+  speakers: [8]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 007
+  title: "Organizer"
+  description: "Web Development Team"
+  track: Web Development Team
+  subtype: Workshop
+  speakers: [0]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
   language: en
