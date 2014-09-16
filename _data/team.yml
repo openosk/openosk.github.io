@@ -38,7 +38,7 @@
   name: "Anit"
   surname: " Chaudhary"
   title: "Memebr of NOSK"
-  thumbnailUrl: anit.jpg
+  thumbnailUrl: anit.JPG
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+greyhatanit"}
