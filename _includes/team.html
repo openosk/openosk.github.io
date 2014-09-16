@@ -4,7 +4,7 @@
         <div class="col-lg-10 col-lg-offset-1 row-centered">
             <h4 class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">WEB Development Team</h4>
             {% for speaker in site.data.team %} {% if speaker.team != null %}
-            <div class="team-item-wrapper col-md-3 col-sm-6 col-xs-12 cols-centered">
+            <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered">
 			 <div class="team-item animated waves-element waves-block waves-light hiding increment-animation" data-animation="fadeInUp" data-delay="100" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
                         {% if speaker.ribbon != null %}
@@ -42,7 +42,7 @@
             <div class="clearfix"></div>
             <h4 class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">Open Art & Designing</h4>
             {% for speaker in site.data.team %} {% if speaker.subTeam != null %}
-            <div class="team-item-wrapper col-md-3 col-sm-6 col-xs-12 cols-centered">
+            <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered">
                 <div class="team-item animated waves-element waves-block waves-light hiding increment-animation" data-animation="fadeInUp" data-delay="100" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
                         {% if speaker.ribbon != null %}
