@@ -8,7 +8,7 @@
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/yadavprakash9"}
   social:
-    - {name: "google-plus", link: "https://google.com/+prakashyadav9"} 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PrakashYadav9"} 
     - {name: "github", link: "https://github.com/prakashyadav9"}
     - {name: "facebook", link: "https://www.facebook.com/yadavprakash9"}
 - 
@@ -41,9 +41,9 @@
   thumbnailUrl: anit.JPG
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+AnitChaudhary"}
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/+AnitChaudhary"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+AnitChaudhary"}
+    - {name: "google-plus", link: "https://google.com/u/0/+AnitChaudhary"}
     - {name: "github", link: "https://github.com/Greyhatanit"}
 - 
   id: 9
