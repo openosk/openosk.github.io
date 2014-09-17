@@ -34,7 +34,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
-  id: 8
+  id: 4
   name: "Anit"
   surname: "Chaudhary"
   title: "Member of NOSK"
@@ -156,7 +156,7 @@
     - {name: "Facebook", link: " "}
     - {name: "google-plus", link: "https://plus.google.com/u/0/+pratik"}
 -
-  id: 10
+  id: 24
   name: "Sworup"
   surname: "Shrestha"
   title: "Member of NOSK"
@@ -167,7 +167,7 @@
   social: 
     - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}
 -
-  id: 9
+  id: 25
   name: "saroj"
   surname: "sapkota"
   title: "Member of NOSK"
