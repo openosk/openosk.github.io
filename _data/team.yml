@@ -47,17 +47,6 @@
     - {name: "github", link: "https://github.com/Greyhatanit"}
     - {name: "Facebook ", link: "https://www.facebook.com/greyhatanit"}
 - 
-  id: 9
-  name: "saroj"
-  surname: "sapkota"
-  title: "Member of NOSK"
-  thumbnailUrl: Saroj.jpg
-  team: true
-  ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
-- 
   id: 11
   name: " Rajeshwor"
   surname: "Yadav"
@@ -177,3 +166,14 @@
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/sworup31rocks"}
   social: 
     - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}
+-
+  id: 9
+  name: "saroj"
+  surname: "sapkota"
+  title: "Member of NOSK"
+  thumbnailUrl: Saroj.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
