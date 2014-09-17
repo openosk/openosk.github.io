@@ -2,7 +2,7 @@
   id: 0
   name: "Prakash"
   surname: "Yadav"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: PrakashYadav.jpg
   team: true
   ribbon: 
@@ -15,7 +15,7 @@
   id: 1
   name: "Rabindra"
   surname: "Acharya"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: Rabindra.jpg
   team: true
   ribbon: 
@@ -26,7 +26,7 @@
   id: 2
   name: "Sandip"
   surname: "Pokhrel"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: Sandip.jpg
   team: true
   ribbon: 
@@ -37,7 +37,7 @@
   id: 8
   name: "Anit"
   surname: "Chaudhary"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: anit.JPG
   team: true
   ribbon: 
@@ -49,7 +49,7 @@
   id: 9
   name: "saroj"
   surname: "sapkota"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: Saroj.jpg
   team: true
   ribbon: 
@@ -60,7 +60,7 @@
   id: 11
   name: " Rajeshwor"
   surname: "Yadav"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: RajeshworYadav.JPG
   team: true
   ribbon: 
@@ -74,7 +74,7 @@
   id: 13
   name: "Deipika"
   surname: "Rai"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: dipika.jpg
   team: true
   ribbon: 
@@ -169,7 +169,7 @@
   id: 10
   name: "Sworup"
   surname: "Shrestha"
-  title: "Memebr of NOSK"
+  title: "Member of NOSK"
   thumbnailUrl: Sworup.jpg
   team: true
   ribbon: 
