@@ -43,8 +43,9 @@
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/+AnitChaudhary"}
   social: 
-    - {name: "google-plus", link: "https://google.com/u/0/+AnitChaudhary"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AnitChaudhary"}
     - {name: "github", link: "https://github.com/Greyhatanit"}
+    - {name: "Facebook ", link: "https://www.facebook.com/greyhatanit"}
 - 
   id: 9
   name: "saroj"
