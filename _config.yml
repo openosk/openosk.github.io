@@ -15,7 +15,7 @@ googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 
 # Location block
-eventLocationName: "NCIT College Premises"
+eventLocationName: "Nepal College of Information Technology"
 eventLocationAddress: "Balkumari, Lalitpur, Nepal"
 eventStartTime: "2014-10-18T10:00"
 eventStartTimeHumanReadable: "10:00"
@@ -59,7 +59,7 @@ aboutUs: NOSK stands for Nepal Open Source Klub. It was established in 28th Feb 
 
 # Speakers List Block
 showSessions: true
-thumbnailsFolder: /img/speakers/
+thumbnailsFolder: /img/team/
 
 # Footer
 gplusFollowUsUrl: "https://plus.google.com/communities/110589297196280370630"

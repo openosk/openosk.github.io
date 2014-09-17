@@ -9,9 +9,13 @@
 		<div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1><span id="typeout-text"></span></h1>
             <p>{{site.eventDate}}</p>
-            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-                <a href="{{site.baseurl}}/speakers" target="_blank">SFD Team</a>
-            </span>
+            <p itemscope="" itemtype="http://schema.org/Event">
+                            <time itemprop="startDate" datetime="{{site.eventStartTime}}">{{site.eventStartTimeHumanReadable}}</time>-
+                            <time itemprop="endDate" datetime="{{site.eventEndTime}}">{{site.eventEndTimeHumanReadable}}</time>
+                        </p>
+            <!-- <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
+                <a href="{{site.baseurl}}/team" target="_blank">SFD Team</a>
+            </span> -->
         </div>
     </div>
     <a href="#about" class="explore">
