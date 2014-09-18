@@ -1,5 +1,5 @@
 -
  id: 0 #starting from 0 and ends for (volunteer-1) must be unique for every data
- name: "Prakash" #volunteer First Name [must be a starting with capital leeter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
- surname: "Yadav" #volunteer Last Name [must be a starting with capital leeter]
+ name: "Prakash" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
+ surname: "Yadav" #volunteer Last Name [must be a starting with capital letter]
  email: "prakashyadav9@gmail.com" #email of volunteer
