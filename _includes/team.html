@@ -106,9 +106,34 @@
                             </a>
                             {% endfor %}
                         </figcaption>
-                        <!--Comment Section-->
-                        
-                        <!--Comment Section-->
+                        <!--Volunteer Section-->
+                        <h4 class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">Volunteer</h4>
+			   <div class="content-wrapper">
+			      <div class="container">
+			         <div class="row text-left">
+				    <div class="table-responsive">
+				       <table class="table table-bordered">
+					  <thead>
+					     <tr>
+					        <th style="text-align:center">Name</th>
+						<th style="text-align:center">email</th>
+					      </tr>
+					   </thead>
+					   <tbody>
+					   {% for speaker in site.data.volnt %} {% if speaker.name != null %}
+					    <tr>
+					       <td class="col-md-8 col-xs-8" style="font-weight:bold;">{{ speaker.name }} <span>{{ speaker.surname }}</span></td>
+						
+						<td class="col-md-8 col-xs-8" style="font-size:12px;font-weight:bold;"><span class="position">{{ speaker.email }}</span></td>
+					     </tr>
+					    {% endif %} {% endfor %}
+					   </tbody>
+				        </table>
+				     </div>
+				  </div>
+		               </div>
+			    </div>
+                        <!--Volunteer Section-->
                         
                     </figure>
                 </div>
