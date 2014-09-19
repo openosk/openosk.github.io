@@ -34,7 +34,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
-  id: 8
+  id: 4
   name: "Anit"
   surname: "Chaudhary"
   title: "Member of NOSK"
@@ -46,17 +46,6 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AnitChaudhary"}
     - {name: "github", link: "https://github.com/Greyhatanit"}
     - {name: "Facebook ", link: "https://www.facebook.com/greyhatanit"}
-- 
-  id: 9
-  name: "saroj"
-  surname: "sapkota"
-  title: "Member of NOSK"
-  thumbnailUrl: Saroj.jpg
-  team: true
-  ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
 - 
   id: 11
   name: " Rajeshwor"
@@ -167,7 +156,7 @@
     - {name: "Facebook", link: " "}
     - {name: "google-plus", link: "https://plus.google.com/u/0/+pratik"}
 -
-  id: 10
+  id: 24
   name: "Sworup"
   surname: "Shrestha"
   title: "Member of NOSK"
@@ -177,3 +166,14 @@
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/sworup31rocks"}
   social: 
     - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}
+-
+  id: 25
+  name: "saroj"
+  surname: "sapkota"
+  title: "Member of NOSK"
+  thumbnailUrl: Saroj.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "WEB Developement Team"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sarozsapkota"}

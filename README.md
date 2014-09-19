@@ -5,8 +5,8 @@ We invite anyone interested to join us.
 <br><a href="https://sfd.nosk.org.np" target="_blank">NOSK SFD Website</a>
 
 Credits:
-<br><a href="https://www.facebook.com/greyhatanit" target="_blank">Anit Chaudhary</a>
 <br><a href="https://plus.google.com/117033653342150505949/about" target="_blank">Prakash Yadav</a>
+<br><a href="https://www.facebook.com/greyhatanit" target="_blank">Anit Chaudhary</a>
 <br><a href="https://plus.google.com/+RajKumarShrestha/about" target="_blank">Raj Kumar Shrestha</a>
 <br><a href="https://google.com/+DipeshKumar" target="_blank">Dipesh Kumar</a>
 
