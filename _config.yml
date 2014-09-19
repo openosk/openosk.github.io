@@ -49,7 +49,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "September 20, 2014"
-typeoutTextValues: '"", "Presentation", "Talks", "Distro Demo", "Software Demo", "Open Art", "Gaming"'
+typeoutTextValues: '"", "Presentation", "Talks", "Distro Demo", "Software Demo", "Open Art"'
 
 # About Event Block
 eventName: "Software Freedom Day"
