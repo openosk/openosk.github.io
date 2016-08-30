@@ -1,16 +1,16 @@
 - 
   id: 0
-  name: "Prakash"
-  surname: "Yadav"
+  name: "Saurya"
+  surname: "Paudel"
   title: "Member of NOSK"
-  thumbnailUrl: PrakashYadav.jpg
+  thumbnailUrl: saurya.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/yadavprakash9"}
+    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/saurya.paudel"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+PrakashYadav9"} 
-    - {name: "github", link: "https://github.com/prakashyadav9"}
-    - {name: "facebook", link: "https://www.facebook.com/yadavprakash9"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/"} 
+    - {name: "github", link: "https://github.com/sauryap"}
+    - {name: "facebook", link: "https://www.facebook.com/saurya.paudel"}
 - 
   id: 1
   name: "Rabindra"
