@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: Software Freedom Day 2014
+title: Software Freedom Day 2016
 email: info@nosk.org.np
 description: "Software Freedom Day is celebrated all around the Globe"
 baseurl: ""
@@ -17,7 +17,7 @@ googleAnalyticsSiteUrl: ""
 # Location block
 eventLocationName: "Nepal College of Information Technology"
 eventLocationAddress: "Balkumari, Lalitpur, Nepal"
-eventStartTime: "2014-10-18T10:00"
+eventStartTime: "2016-10-18T10:00"
 eventStartTimeHumanReadable: "10:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
@@ -30,7 +30,7 @@ logisticsMapCenterCoordinates: "27.671387, 85.338811"
 logisticsMapMobileCenterCoordinates: "27.671387, 85.338811"
 
 #Tweets feed
-twitterHashTag: "sfdNosk14"
+twitterHashTag: "sfdNosk16"
 twitterFeed: "http://twitter.com/open_nosk"
 
 # Subscribe
@@ -41,14 +41,14 @@ subscribeAction: ""
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
-metaKeywords: "event, sfd, nosk, opensource, sfd2014"
+metaKeywords: "event, sfd, nosk, opensource, sfd2016"
 twitterAccount: "@open_nosk"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "September 20, 2014"
+eventDate: "September 17, 2016"
 typeoutTextValues: '"", "Presentation", "Talks", "Distro Demo", "Software Demo", "Open Art"'
 
 # About Event Block
