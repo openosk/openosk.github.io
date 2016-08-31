@@ -27,34 +27,6 @@
     social:
       - {name: "twitter", link: "https://twitter.com/sauryapaudel"}
       - {name: "google-plus", link: "https://twitter.com/sauryapaudel"}
--
-    id: 5
-  name: "Dipesh"
-  surname: "Kumar"
-  company: "NOSK"
-  title: "Member"
-  bio: " "
-  thumbnailUrl: DipeshKumar.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "SFD", title: "Organizer", url: "http://about.me/dipeshkumar"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/aaryadip"}
-    - {name: "google-plus", link: "https://google.com/+DipeshKumar"}
-- 
-  id: 6
-  name: "Surendra"
-  surname: "Shrestha"
-  company: "NOSK"
-  title: "Member"
-  bio: " "
-  thumbnailUrl: Surendra.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/smartsuren"}
-  social: 
-    - {name: "Facebook", link: "https://www.facebook.com/smartsuren"}
-    - {name: "google-plus", link: "https://plus.google.com/+SurendraShresthaGeek"}
 - 
   id: 7
   name: "Surit"
