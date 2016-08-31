@@ -68,3 +68,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/imsurit"}
     - {name: "google-plus", link: "https://plus.google.com/+SuritAryal"}
+-
+  id: 8
+    name: "Saurya"
+    surname: "Paudel"
+    company: "NOSK"
+    title: "Member"
+    bio: "IT enthusiast "
+    thumbnailUrl: Saurya.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/rkFP8n"}
+    social:
+      - {name: "twitter", link: "https://twitter.com/sauryapaudel"}
+      - {name: "google-plus", link: "https://twitter.com/sauryapaudel"}
