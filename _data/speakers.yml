@@ -12,64 +12,9 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+NiteshRijal"}
     - {name: "twitter", link: "https://twitter.com/openrijal"}
-- 
-  id: 4
-  name: "Ojesh"
-  surname: "Rimal"
-  company: "NOSK"
-  title: "Member"
-  bio: ""
-  thumbnailUrl: OjeshRimal.JPG
-  rockstar: false
-  ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://facebook.com/ojeshrimal"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ojeshrimal"}
-    - {name: "Facebook", link: "https://facebook.com/ojeshrimal"}
-- 
-  id: 5
-  name: "Dipesh"
-  surname: "Kumar"
-  company: "NOSK"
-  title: "Member"
-  bio: " "
-  thumbnailUrl: DipeshKumar.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "SFD", title: "Organizer", url: "http://about.me/dipeshkumar"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/aaryadip"}
-    - {name: "google-plus", link: "https://google.com/+DipeshKumar"}
-- 
-  id: 6
-  name: "Surendra"
-  surname: "Shrestha"
-  company: "NOSK"
-  title: "Member"
-  bio: " "
-  thumbnailUrl: Surendra.jpg
-  rockstar: false
-  ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/smartsuren"}
-  social: 
-    - {name: "Facebook", link: "https://www.facebook.com/smartsuren"}
-    - {name: "google-plus", link: "https://plus.google.com/+SurendraShresthaGeek"}
-- 
-  id: 7
-  name: "Surit"
-  surname: "Aryal"
-  company: "NOSK"
-  title: "Member"
-  bio: " "
-  thumbnailUrl: Surit.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/M9Bdmu"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/imsurit"}
-    - {name: "google-plus", link: "https://plus.google.com/+SuritAryal"}
+
 -
-  id: 8
+  id: 4
     name: "Saurya"
     surname: "Paudel"
     company: "NOSK"
