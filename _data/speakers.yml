@@ -20,7 +20,7 @@
   title: "Member"
   bio: ""
   thumbnailUrl: OjeshRimal.JPG
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://facebook.com/ojeshrimal"}
   social: 
@@ -34,7 +34,7 @@
   title: "Member"
   bio: " "
   thumbnailUrl: DipeshKumar.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "http://about.me/dipeshkumar"}
   social:
@@ -48,7 +48,7 @@
   title: "Member"
   bio: " "
   thumbnailUrl: Surendra.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/smartsuren"}
   social: 
@@ -62,7 +62,7 @@
   title: "Member"
   bio: " "
   thumbnailUrl: Surit.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/M9Bdmu"}
   social:
