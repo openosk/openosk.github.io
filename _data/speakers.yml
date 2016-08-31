@@ -15,29 +15,15 @@
 
 -
   id: 4
-    name: "Saurya"
-    surname: "Paudel"
-    company: "NOSK"
-    title: "Member"
-    bio: "IT enthusiast "
-    thumbnailUrl: saurya.jpg
-    rockstar: true
-    ribbon:
-      - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/rkFP8n"}
-    social:
-      - {name: "twitter", link: "https://twitter.com/sauryapaudel"}
-      - {name: "google-plus", link: "https://twitter.com/sauryapaudel"}
-- 
-  id: 5
-  name: "Surit"
-  surname: "Aryal"
+  name: "Saurya"
+  surname: "Paudel"
   company: "NOSK"
   title: "Member"
-  bio: " "
-  thumbnailUrl: Surit.jpg
+  bio: "IT enthusiast"
+  thumbnailUrl: saurya.jpg
   rockstar: true
   ribbon:
-    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/M9Bdmu"}
+    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/rkFP8n"}
   social:
-    - {name: "twitter", link: "https://twitter.com/imsurit"}
-    - {name: "google-plus", link: "https://plus.google.com/+SuritAryal"}
+    - {name: "twitter", link: "https://twitter.com/sauryapaudel"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/115490857485301318999"}
