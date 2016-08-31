@@ -10,6 +10,12 @@ Credits:
 <br><a href="https://plus.google.com/+RajKumarShrestha/about" target="_blank">Raj Kumar Shrestha</a>
 <br><a href="https://google.com/+DipeshKumar" target="_blank">Dipesh Kumar</a>
 
+The previous SFD event wouldn't have been successful without:
+Nitesh Rijal
+Ojesh Rimal
+Surendra Shrestha
+Surit Aryal
+
 Special Thanks To:
 <br><a href="https://developers.google.com" target="_blank">Google Developers Group</a>
 <br><a href="https://plus.google.com/+GDGXProject/videos" target="_blank">GDG[x]</a>
