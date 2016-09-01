@@ -55,3 +55,18 @@
   social:
     - {name: "twitter", link: "https://twitter.com/sworup"}
     - {name: "google-plus", link: "https://plus.google.com/u/1/115490857485301318998"}
+-
+  id: 7
+  name: "Mohan"
+  surname: "Khadka"
+  company: "NOSK"
+  title: "Member"
+  bio: ""
+  thumbnailUrl: Mohan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/Bn5OKy"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/mohan"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/115490857485301318998"}
+    
