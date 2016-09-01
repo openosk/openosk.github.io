@@ -13,13 +13,7 @@
 								<div class="sub">{{ speaker.company }}</div>
 							</div>
 						</div>
-						<div id="rockstar-speaker-{{ speaker.id }}" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="{{ speaker.id }}" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
-								<div class="name">{{ speaker.name }} {{ speaker.surname }}</div>
-								<div class="sub">{{ speaker.company }}</div>
-							</div>
-						</div>
+						
 					{% endif %}
 				{% endfor %}
 
