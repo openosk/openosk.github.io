@@ -41,4 +41,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/nipeshshr"}
     - {name: "google-plus", link: "https://plus.google.com/u/1/115490857485301318999"}
-
+-
+  id: 5
+  name: "Sworup"
+  surname: "Shrestha"
+  company: "NOSK"
+  title: "Member"
+  bio: ""
+  thumbnailUrl: Sworup.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/JBwnp7"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/nipeshshr"}
+    - {name: "google-plus", link: "https://plus.google.com/u/1/115490857485301318999"}
