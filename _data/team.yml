@@ -13,10 +13,10 @@
     - {name: "facebook", link: "https://www.facebook.com/saurya.paudel"}
 - 
   id: 1
-  name: "Rabindra"
-  surname: "Acharya"
+  name: "Nipesh"
+  surname: "Shrestha"
   title: "Member of NOSK"
-  thumbnailUrl: Rabindra.jpg
+  thumbnailUrl: Nipesh.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+acharya.rabindra2000"}
@@ -24,10 +24,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+acharya.rabindra2000"}
 - 
   id: 2
-  name: "Sandip"
-  surname: "Pokhrel"
+  name: "Sworup"
+  surname: "Shrestha"
   title: "Member of NOSK"
-  thumbnailUrl: Sandip.jpg
+  thumbnailUrl: Sworup.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+sandip.pokhrel02"}
@@ -35,10 +35,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
   id: 4
-  name: "Anit"
-  surname: "Chaudhary"
+  name: "Mohan"
+  surname: "Khadka"
   title: "Member of NOSK"
-  thumbnailUrl: anit.JPG
+  thumbnailUrl: Mohan.JPG
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/+AnitChaudhary"}
@@ -48,10 +48,10 @@
     - {name: "Facebook ", link: "https://www.facebook.com/greyhatanit"}
 - 
   id: 11
-  name: " Rajeshwor"
-  surname: "Yadav"
+  name: " Santosh"
+  surname: "Dhakal"
   title: "Member of NOSK"
-  thumbnailUrl: RajeshworYadav.JPG
+  thumbnailUrl: SarojDhakal.JPG
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/111707828797595681208"}
@@ -62,10 +62,10 @@
     - {name: "Wikipedia ", link: "http://en.wikipedia.org/wiki/User:Rajeshworyadav"} 
 - 
   id: 13
-  name: "Deipika"
-  surname: "Rai"
+  name: "Saroj"
+  surname: "Sapkota"
   title: "Member of NOSK"
-  thumbnailUrl: dipika.jpg
+  thumbnailUrl: Saroj.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: ""}
