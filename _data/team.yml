@@ -74,10 +74,10 @@
     - {name: "github", link: ""}
 - 
   id: 14
-  name: "Akriti"
-  surname: "Bhusal"
+  name: "Dristi"
+  surname: "Shrestha"
   title: "Member of NOSK"
-  thumbnailUrl: Akriti.jpg
+  thumbnailUrl: Dristi.jpg
   subTeam: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AkritiBhusal"}
@@ -86,8 +86,8 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AkritiBhusal"}
 - 
   id: 15
-  name: "Sapan"
-  surname: "Shrestha"
+  name: "Rubina"
+  surname: "Lacoul"
   title: "Member of NOSK"
   thumbnailUrl: Sapan.jpg
   subTeam: true
@@ -95,17 +95,6 @@
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
     - {name: "Facebook", link: "https://www.facebook.com/thesapanbruk"}
-- 
-  id: 16
-  name: "Bishesh Man"
-  surname: "Singh"
-  title: "Member of NOSK"
-  thumbnailUrl: Bishesh.jpg
-  subTeam: true
-  ribbon:
-    - {abbr: "SFD", title: "Organizer", url: " "}
-  social:
-    - {name: "Facebook", link: "https://www.facebook.com/mansinghbishesh63"}
 - 
   id: 21
   name: "Regan"
