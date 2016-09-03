@@ -149,7 +149,7 @@
   name: "Santosh"
   surname: "Dahal"
   title: "Member of NOSK"
-  thumbnailUrl: Sworup.jpg
+  thumbnailUrl: SantoshDahal.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/sworup31rocks"}
@@ -160,7 +160,7 @@
   name: "Aashish"
   surname: "Limbu"
   title: "Member of NOSK"
-  thumbnailUrl: SantoshDahal.jpg
+  thumbnailUrl: Aashish.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team"}
