@@ -6,7 +6,7 @@
   thumbnailUrl: saurya.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/saurya.paudel"}
+    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/saurya.paudel"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/"} 
     - {name: "github", link: "https://github.com/sauryap"}
