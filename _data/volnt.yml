@@ -1,13 +1,13 @@
 -
  id: 0 #starting from 0 and ends for (volunteer-1) must be unique for every data
- name: "Santosh" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
- surname: "Dhakal" #volunteer Last Name [must be a starting with capital letter]
- email: "santos...@gmail.com" #email of volunteer
+ name: "Shraddha" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
+ surname: "Parajuli " #volunteer Last Name [must be a starting with capital letter]
+ email: "shraddha@gmail.com" #email of volunteer
 -
 -
  id: 1 #starting from 0 and ends for (volunteer-1) must be unique for every data
- name: "Rohini" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
- surname: "Rajbanshi" #volunteer Last Name [must be a starting with capital letter]
+ name: "Bisho" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
+ surname: "Silwal" #volunteer Last Name [must be a starting with capital letter]
  email: "law.evly@gmail.com" #email of volunteer
 -
  id: 2 #starting from 0 and ends for (volunteer-1) must be unique for every data
