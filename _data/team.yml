@@ -65,7 +65,7 @@
   name: "Saroj"
   surname: "Sapkota"
   title: "Member of NOSK"
-  thumbnailUrl: Saroj.jpg
+  thumbnailUrl: saroj.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "WEB Developement Team", url: ""}
