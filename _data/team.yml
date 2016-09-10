@@ -78,7 +78,7 @@
   surname: "Shrestha"
   title: "Member of NOSK"
   thumbnailUrl: Dristi.jpg
-  subTeam: true
+  Team: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AkritiBhusal"}
   social:
@@ -90,7 +90,7 @@
   surname: "Lacoul"
   title: "Member of NOSK"
   thumbnailUrl: Rubina.jpg
-  subTeam: true
+  Team: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
