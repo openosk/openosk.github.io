@@ -73,7 +73,7 @@
     - {name: "google-plus", link: ""}
     - {name: "github", link: ""}
 - 
-  id: 14
+  id: 25
   name: "Dristi"
   surname: "Shrestha"
   title: "Member of NOSK"
@@ -85,7 +85,7 @@
     - {name: "Facebook", link: "http://www.facebook.com/akriti.bhusal"}
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AkritiBhusal"}
 - 
-  id: 15
+  id: 26
   name: "Rubina"
   surname: "Lacoul"
   title: "Member of NOSK"
@@ -96,7 +96,7 @@
   social:
     - {name: "Facebook", link: "https://www.facebook.com/thesapanbruk"}
 -
-  id: 24
+  id: 27
   name: "Santosh"
   surname: "Dahal"
   title: "Member of NOSK"
@@ -107,7 +107,7 @@
   social: 
     - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}
 -
-  id: 25
+  id: 28
   name: "Aashish"
   surname: "Limbu"
   title: "Member of NOSK"
