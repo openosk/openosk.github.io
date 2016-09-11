@@ -19,7 +19,7 @@
   thumbnailUrl: Nipesh.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+acharya.rabindra2000"}
+    - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/+acharya.rabindra2000"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+acharya.rabindra2000"}
 - 
@@ -30,7 +30,7 @@
   thumbnailUrl: Sworup.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/+sandip.pokhrel02"}
+    - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/+sandip.pokhrel02"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
@@ -41,7 +41,7 @@
   thumbnailUrl: Mohan.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/+AnitChaudhary"}
+    - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AnitChaudhary"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AnitChaudhary"}
     - {name: "github", link: "https://github.com/Greyhatanit"}
@@ -54,7 +54,7 @@
   thumbnailUrl: SantoshDhakal.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://plus.google.com/u/0/111707828797595681208"}
+    - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/111707828797595681208"}
   social:
     - {name: "Facebook ", link: "https://www.facebook.com/rajeshwor.yadav.5"}
     - {name: "Google-plus ", link: "https://plus.google.com/u/0/111707828797595681208"}
@@ -68,7 +68,7 @@
   thumbnailUrl: saroj.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: ""}
+    - {abbr: "SFD", title: "Organizer", url: ""}
   social: 
     - {name: "google-plus", link: ""}
     - {name: "github", link: ""}
@@ -103,7 +103,7 @@
   thumbnailUrl: SantoshDahal.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team", url: "https://www.facebook.com/sworup31rocks"}
+    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/sworup31rocks"}
   social: 
     - {name: "Facebook", link: "https://www.facebook.com/sworup31rocks"}
 -
@@ -114,6 +114,6 @@
   thumbnailUrl: Aashish.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "WEB Developement Team"}
+    - {abbr: "SFD", title: "Organizer"}
   social: 
     - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
