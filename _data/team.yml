@@ -114,6 +114,6 @@
   thumbnailUrl: Aashish.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "Organizer"}
+    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/aashish"}
   social: 
     - {name: "twitter", link: "https://twitter.com/sarozsapkota"}
