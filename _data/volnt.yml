@@ -4,7 +4,6 @@
  surname: "Silwal" #volunteer Last Name [must be a starting with capital letter]
  email: "" #email of volunteer
 -
--
  id: 1 #starting from 0 and ends for (volunteer-1) must be unique for every data
  name: "Shraddha" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
  surname: "Parajuli" #volunteer Last Name [must be a starting with capital letter]
@@ -53,13 +52,13 @@
  id: 10 #starting from 0 and ends for (volunteer-1) must be unique for every data
  name: "Puspa" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
  surname: "Khanal" #volunteer Last Name [must be a starting with capital letter]
- email: "binaural6a@gmail.com" #email of volunteer
+ email: "" #email of volunteer
 -
  id: 11 #starting from 0 and ends for (volunteer-1) must be unique for every data
  name: "Santosh" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
  surname: "Pathak" #volunteer Last Name [must be a starting with capital letter]
  email: "" #email of volunteer
-
+-
  id: 12 #starting from 0 and ends for (volunteer-1) must be unique for every data
  name: "Shruti" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
  surname: "Rokaya" #volunteer Last Name [must be a starting with capital letter]
