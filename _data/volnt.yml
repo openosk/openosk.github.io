@@ -46,7 +46,7 @@
 -
  id: 9 #starting from 0 and ends for (volunteer-1) must be unique for every data
  name: "Anish" #volunteer First Name [must be a starting with capital letter] if any middle name is present then it goes like this [name: "First-name Middle-name"]
- surname: "" #volunteer Last Name [must be a starting with capital letter]
+ surname: "Karki" #volunteer Last Name [must be a starting with capital letter]
  email: "" #email of volunteer
 -
  id: 10 #starting from 0 and ends for (volunteer-1) must be unique for every data
