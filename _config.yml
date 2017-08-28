@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: Software Freedom Day 2016
+title: Software Freedom Day 2017
 email: info@nosk.org.np
 description: "Software Freedom Day is celebrated all around the Globe"
 baseurl: ""
@@ -17,7 +17,7 @@ googleAnalyticsSiteUrl: ""
 # Location block
 eventLocationName: "Nepal College of Information Technology"
 eventLocationAddress: "Balkumari, Lalitpur, Nepal"
-eventStartTime: "2016-10-18T10:00"
+eventStartTime: "2017-09-18T10:00"
 eventStartTimeHumanReadable: "09:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "17:00"
@@ -48,8 +48,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "September 17, 2016"
-typeoutTextValues: '"", "Presentation", "Talks", "Distro Demo", "Software Demo", "Open Art"'
+eventDate: "September 16, 2017"
+typeoutTextValues: '"NOSKcode", "Distro Demo", "Talks", "Open Source Games", "Open Art", "Presentation"'
 
 # About Event Block
 eventName: "Software Freedom Day"
