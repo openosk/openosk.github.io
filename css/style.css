@@ -2011,6 +2011,8 @@ nav ul > li > a.current, nav ul > li > a:hover {
           transform: translateX(-50%);
   width: 4px;
   background-color: #fff;
+  z-index:-1;
+
 }
 #sfd-timeline .entries {
   width: calc(100% - 80px);
