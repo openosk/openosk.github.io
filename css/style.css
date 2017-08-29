@@ -1995,86 +1995,142 @@ nav ul > li > a.current, nav ul > li > a:hover {
 }
 
 /* --SFD TIMELINE AND SCHEDULE START */
-#sfd-timeline {
-  background-color: #1D1D1D;
-  min-height: 100vh;
+@import 'https://fonts.googleapis.com/css?family=Muli:300';
+/* Timeline
+ */
+ 
+ .card{
+  line-height: 1.5rem;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
   margin: 0;
-  font-family: 'Droid Sans', sans-serif;
-}
-#sfd-timeline:before {
-  content: '';
-  position: fixed;
-  top: 0px;
-  left: 50%;
-  bottom: 0px;
-  -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
-  width: 4px;
-  background-color: #fff;
-  z-index:-1;
-}
-#sfd-timeline .entries {
-  width: calc(100% - 80px);
-  max-width: 800px;
-  margin: auto;
-  position: relative;
-  left: -5px;
-}
-#sfd-timeline .entries .entry {
-  width: calc(50% - 80px);
-  float: left;
-  padding: 20px;
-  clear: both;
-  text-align: right;
+  box-sizing: border-box;
+  height: 100%;
+ }
+ 
+.timeline {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  padding: 0 62px;
+  margin: 0;
+  list-style: none;
 }
 
-#sfd-timeline .entries .entry:not(:first-child) {
-  margin-top: -60px;
+.timeline__item {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: stretch;
+  align-items: stretch;
+  padding: 62px 0;
 }
-#sfd-timeline .entries .entry .title {
-  font-size: 32px;
-  margin-bottom: 12px;
+.timeline__step {
+  padding-right: 62px;
+}
+.timeline__step__marker {
   position: relative;
-  color: #fff;
-}
-#sfd-timeline .entries .entry .title:before {
-  content: '';
-  position: absolute;
-  width: 8px;
-  height: 8px;
-  border: 4px solid #ffffff;
-  background-color: #1D1D1D;
-  border-radius: 100%;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  right: -73px;
-  z-index: 1000;
-}
-#sfd-timeline .entries .entry .title.big:before {
-  width: 24px;
+  display: table-cell;
   height: 24px;
-  -webkit-transform: translate(8px, -50%);
-          transform: translate(8px, -50%);
+  min-height: 24px;
+  width: 24px;
+  min-width: 24px;
+  border: 4px solid #F2F2F2;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: white;
+  z-index: 0;
 }
-#sfd-timeline .entries .entry .body {
-  color: #aaa;
+.timeline__step__marker--red {
+  border-color: #FF3467;
 }
-#sfd-timeline .entries .entry .body p {
-  line-height: 1.4em;
-  color: #aaa;
+.timeline__step__marker--blue {
+  border-color: #18D0BF;
 }
-#sfd-timeline .entries .entry:nth-child(2n) {
-  text-align: left;
-  float: right;
+.timeline__step__marker--salmon {
+  border-color: #F48A6D;
 }
-#sfd-timeline .entries .entry:nth-child(2n) .title:before {
-  left: -63px;
+.timeline__step__marker--purple {
+  border-color: #C178FA;
 }
-#sfd-timeline .entries .entry:nth-child(2n) .title.big:before {
-  -webkit-transform: translate(-8px, -50%);
-          transform: translate(-8px, -50%);
+.timeline__time {
+  padding-right: 126px;
+  font-size: 26px;
 }
+.timeline__title {
+  padding-bottom: 26px;
+  font-size: 32px;
+}
+.timeline__points {
+  padding: 0;
+  list-style: none;
+  font-size: 24px;
+  color: #77777D;
+}
+.timeline__points > * {
+  padding: 0 0 12px 0;
+}
+
+/* For mobile!
+ */
+@media (max-width: 768px) {
+  .card {
+    max-width: 375;
+  }
+
+  .timeline {
+    padding: 0 35.42857px;
+  }
+  .timeline::before {
+    padding-right: 6.28571px;
+  }
+  .timeline__item {
+    padding: 35.42857px 0;
+  }
+  .timeline__step {
+    padding-right: 35.42857px;
+  }
+  .timeline__step__marker {
+    height: 13.71429px;
+    min-hieght: 13.71429px;
+    width: 13.71429px;
+    min-width: 13.71429px;
+    border-width: 2.28571px;
+  }
+  .timeline__time {
+    padding-right: 72px;
+    font-size: 14.85714px;
+  }
+  .timeline__title {
+    padding-bottom: 14.85714px;
+    font-size: 18.28571px;
+  }
+  .timeline__points {
+    font-size: 13.71429px;
+  }
+  .timeline__points > * {
+    padding-bottom: 6.85714px;
+  }
+}
+/* Display stuff
+ */
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.card {
+  background-color: white;
+  max-width: 750px;
+  margin: 0 auto;
+  height: 100%;
+  -moz-box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  -webkit-box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  display: table;
+}
+
 
 /* --SFD TIMELINE AND SCHEDULE END */
 
