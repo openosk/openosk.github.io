@@ -2016,6 +2016,15 @@ nav ul > li > a.current, nav ul > li > a:hover {
   list-style: none;
 }
 
+.timeline::before {
+  position: fixed;
+  top:100%;
+  height: 100%;
+  padding-right: 11px;
+  border-right: 2px solid #F2F2F2;
+  content: "";
+}
+
 .timeline__item {
   display: -webkit-flex;
   display: flex;
