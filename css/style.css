@@ -1997,7 +1997,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 /* --SFD TIMELINE AND SCHEDULE START */
 @import 'https://fonts.googleapis.com/css?family=Muli:300';
  
- .card{
+ .cardz{
   line-height: 1.5rem;
   font-family: "Muli", sans-serif;
   font-weight: 300;
@@ -2082,7 +2082,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 /* For mobile!
  */
 @media (max-width: 768px) {
-  .card {
+  .cardz {
     max-width: 375;
   }
 
@@ -2123,7 +2123,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 /* Display stuff
  */
 
-.card {
+.cardz {
   background-color: white;
   max-width: 750px;
   margin: 0 auto;
