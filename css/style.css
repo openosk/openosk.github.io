@@ -1993,3 +1993,88 @@ nav ul > li > a.current, nav ul > li > a:hover {
     }
     /* --END FOOTER */
 }
+
+/* --SFD TIMELINE AND SCHEDULE START */
+#sfd-timeline {
+  background-color: #1D1D1D;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Droid Sans', sans-serif;
+}
+#sfd-timeline:before {
+  content: '';
+  position: fixed;
+  top: 0px;
+  left: 50%;
+  bottom: 0px;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 4px;
+  background-color: #fff;
+}
+#sfd-timeline .entries {
+  width: calc(100% - 80px);
+  max-width: 800px;
+  margin: auto;
+  position: relative;
+  left: -5px;
+}
+#sfd-timeline .entries .entry {
+  width: calc(50% - 80px);
+  float: left;
+  padding: 20px;
+  clear: both;
+  text-align: right;
+}
+#sfd-timeline .entries .entry:not(:first-child) {
+  margin-top: -60px;
+}
+#sfd-timeline .entries .entry .title {
+  font-size: 32px;
+  margin-bottom: 12px;
+  position: relative;
+  color: #fff;
+}
+#sfd-timeline .entries .entry .title:before {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border: 4px solid #ffffff;
+  background-color: #1D1D1D;
+  border-radius: 100%;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  right: -73px;
+  z-index: 1000;
+}
+#sfd-timeline .entries .entry .title.big:before {
+  width: 24px;
+  height: 24px;
+  -webkit-transform: translate(8px, -50%);
+          transform: translate(8px, -50%);
+}
+#sfd-timeline .entries .entry .#sfd-timeline {
+  color: #aaa;
+}
+#sfd-timeline .entries .entry .#sfd-timeline p {
+  line-height: 1.4em;
+}
+#sfd-timeline .entries .entry:nth-child(2n) {
+  text-align: left;
+  float: right;
+}
+#sfd-timeline .entries .entry:nth-child(2n) .title:before {
+  left: -63px;
+}
+#sfd-timeline .entries .entry:nth-child(2n) .title.big:before {
+  -webkit-transform: translate(-8px, -50%);
+          transform: translate(-8px, -50%);
+}
+
+/* --SFD TIMELINE AND SCHEDULE END */
+
+
+
+
