@@ -2114,10 +2114,6 @@ nav ul > li > a.current, nav ul > li > a:hover {
 /* Display stuff
  */
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 .card {
   background-color: white;
   max-width: 750px;
