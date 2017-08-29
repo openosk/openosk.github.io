@@ -2012,8 +2012,9 @@ nav ul > li > a.current, nav ul > li > a:hover {
   -webkit-flex-direction: column;
   flex-direction: column;
   padding: 0 62px;
-  margin: 0;
+  margin: 0 auto;
   list-style: none;
+  max-width: 950px;
 }
 
 .timeline::before {
@@ -2125,10 +2126,10 @@ nav ul > li > a.current, nav ul > li > a:hover {
 
 .cardz {
   background-color: white;
-  max-width: 950px;
   margin: 0 auto;
   height: 100%;
- display: table;
+  width:100%;
+  display: table;
 }
 
 
