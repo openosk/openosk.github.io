@@ -1998,7 +1998,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 @import 'https://fonts.googleapis.com/css?family=Muli:300';
  
  .cardz{
-  line-height: 1.5rem;
+  line-height: 2.5rem;
   font-family: "Muli", sans-serif;
   font-weight: 300;
   margin: 0;
@@ -2125,7 +2125,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 
 .cardz {
   background-color: white;
-  max-width: 750px;
+  max-width: 950px;
   margin: 0 auto;
   height: 100%;
  display: table;
