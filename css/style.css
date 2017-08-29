@@ -2012,7 +2012,6 @@ nav ul > li > a.current, nav ul > li > a:hover {
   width: 4px;
   background-color: #fff;
   z-index:-1;
-
 }
 #sfd-timeline .entries {
   width: calc(100% - 80px);
@@ -2027,6 +2026,9 @@ nav ul > li > a.current, nav ul > li > a:hover {
   padding: 20px;
   clear: both;
   text-align: right;
+}
+#sfd-timeline .entries .entry p {
+	color:#aaa;
 }
 #sfd-timeline .entries .entry:not(:first-child) {
   margin-top: -60px;
