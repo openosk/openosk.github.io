@@ -2027,9 +2027,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
   clear: both;
   text-align: right;
 }
-#sfd-timeline .entries .entry p {
-	color:#aaa;
-}
+
 #sfd-timeline .entries .entry:not(:first-child) {
   margin-top: -60px;
 }
@@ -2059,11 +2057,12 @@ nav ul > li > a.current, nav ul > li > a:hover {
   -webkit-transform: translate(8px, -50%);
           transform: translate(8px, -50%);
 }
-#sfd-timeline .entries .entry .#sfd-timeline {
+#sfd-timeline .entries .entry .body {
   color: #aaa;
 }
-#sfd-timeline .entries .entry .#sfd-timeline p {
+#sfd-timeline .entries .entry .body p {
   line-height: 1.4em;
+  color: #aaa;
 }
 #sfd-timeline .entries .entry:nth-child(2n) {
   text-align: left;
