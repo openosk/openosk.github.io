@@ -2012,9 +2012,11 @@ nav ul > li > a.current, nav ul > li > a:hover {
   -webkit-flex-direction: column;
   flex-direction: column;
   padding: 0 62px;
-  margin: 0 auto;
+  margin: 50px auto;
   list-style: none;
   max-width: 950px;
+  background-color:#fcfcfc;
+  box-shadow:6px 5px 20px 0px rgba(174, 174, 174, 0.16), 0 1px 3px rgba(120, 120, 120, 0.23);
 }
 
 .timeline::before {
