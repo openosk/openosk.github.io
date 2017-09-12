@@ -35,10 +35,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
   id: 4
-  name: "Ashish"
+  name: "Aashish"
   surname: "Neupane"
   title: "Member of NOSK"
-  thumbnailUrl: ashish.jepg
+  thumbnailUrl: ashish.jpeg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AnitChaudhary"}
@@ -51,7 +51,7 @@
   name: " Nikhil"
   surname: "Pandey"
   title: "Member of NOSK"
-  thumbnailUrl: nikhil.jepg
+  thumbnailUrl: nikhil.jpeg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/111707828797595681208"}
