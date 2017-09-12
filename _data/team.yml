@@ -1,9 +1,9 @@
 - 
   id: 0
-  name: "Saurya"
-  surname: "Paudel"
+  name: "Ishan"
+  surname: "Subedi"
   title: "Member of NOSK"
-  thumbnailUrl: saurya.jpg
+  thumbnailUrl: ishan.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/saurya.paudel"}
@@ -13,10 +13,10 @@
     - {name: "facebook", link: "https://www.facebook.com/saurya.paudel"}
 - 
   id: 1
-  name: "Nipesh"
-  surname: "Shrestha"
+  name: "Anurag"
+  surname: "Regmi"
   title: "Member of NOSK"
-  thumbnailUrl: Nipesh.jpg
+  thumbnailUrl: anurag.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/+acharya.rabindra2000"}
@@ -24,10 +24,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+acharya.rabindra2000"}
 - 
   id: 2
-  name: "Sworup"
-  surname: "Shrestha"
+  name: "Ayush"
+  surname: "Jha"
   title: "Member of NOSK"
-  thumbnailUrl: Sworup.jpg
+  thumbnailUrl: ayush.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/+sandip.pokhrel02"}
@@ -35,10 +35,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+sandip.pokhrel02"}
 - 
   id: 4
-  name: "Mohan"
-  surname: "Khadka"
+  name: "Ashish"
+  surname: "Neupane"
   title: "Member of NOSK"
-  thumbnailUrl: Mohan.jpg
+  thumbnailUrl: ashish.jepg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/+AnitChaudhary"}
@@ -48,10 +48,10 @@
     - {name: "Facebook ", link: "https://www.facebook.com/greyhatanit"}
 - 
   id: 11
-  name: " Santosh"
-  surname: "Dhakal"
+  name: " Nikhil"
+  surname: "Pandey"
   title: "Member of NOSK"
-  thumbnailUrl: SantoshDhakal.jpg
+  thumbnailUrl: nikhil.jepg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://plus.google.com/u/0/111707828797595681208"}
