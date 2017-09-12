@@ -20,7 +20,7 @@
   company: "NOSK"
   title: "Member"
   bio: "IT enthusiast"
-  thumbnailUrl: logo.png
+  thumbnailUrl: ishan.jpg
   rockstar: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/rkFP8n"}
@@ -34,7 +34,7 @@
   company: "NOSK"
   title: "Member"
   bio: ""
-  thumbnailUrl: logo.png
+  thumbnailUrl: anurag.jpg
   rockstar: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: "http://goo.gl/NqPD3O"}
