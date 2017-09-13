@@ -3,7 +3,7 @@
   name: "Ayush"
   surname: "Jha"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: ayush.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://ayys.keybase.pub/"}
@@ -25,7 +25,7 @@
   name: "Akhyl"
   surname: "Jung Chhetri"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: akhyl.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://twitter.com/akhyl_chhetri"}
@@ -47,7 +47,7 @@
   name: "Aakanshya"
   surname: "pradhanang"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: aakanshya.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/profile.php?id=100015164592000"}
@@ -58,7 +58,7 @@
   name: "Krishna"
   surname: "Pandey"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: krishna.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
@@ -70,7 +70,7 @@
   name: "Prakash"
   surname: "Adhikari"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: prakash.jpg
   team: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: ""}
@@ -103,7 +103,7 @@
   name: "Prashant"
   surname: "Thapa"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: prashant.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
@@ -125,7 +125,7 @@
   name: "Paaru"
   surname: "Rawal"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: paaru.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
@@ -136,7 +136,7 @@
   name: "Aasma"
   surname: "Sharma"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: aasma.jpg
   team: true
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
