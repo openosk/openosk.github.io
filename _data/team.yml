@@ -81,7 +81,7 @@
   name: "Nikhil"
   surname: "Pandey"
   title: "Member of NOSK"
-  thumbnailUrl: nikhil.jpg
+  thumbnailUrl: nikhil.jpeg
   team: true
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: ""}
