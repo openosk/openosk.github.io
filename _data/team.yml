@@ -1,34 +1,34 @@
 - 
   id: 0
-  name: "Ayush"
-  surname: "Jha"
+  name: "Aakanshya"
+  surname: "pradhanang"
   title: "Member of NOSK"
-  thumbnailUrl: ayush.jpg
+  thumbnailUrl: aakanshya.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://ayys.keybase.pub/"}
+    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/profile.php?id=100015164592000"}
   social:
     - {name: "github", link: ""}
 - 
   id: 1
-  name: "Ishan"
-  surname: "Subedi"
+  name: "Aashish"
+  surname: "Neupane"
   title: "Member of NOSK"
-  thumbnailUrl: ishan.jpg
+  thumbnailUrl: aashish.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "http://ikushum.herokuapp.com/"}
+    - {abbr: "SFD", title: "Organizer", url: ""}
   social:
     - {name: "github", link: ""}
 - 
   id: 2
-  name: "Akhyl"
-  surname: "Jung Chhetri"
+  name: "Aasma"
+  surname: "Sharma"
   title: "Member of NOSK"
-  thumbnailUrl: akhyl.jpg
+  thumbnailUrl: aasma.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://twitter.com/akhyl_chhetri"}
+    - {abbr: "SFD", title: "Organizer", url: ""}
   social:
     - {name: "github", link: ""}
 - 
@@ -44,17 +44,39 @@
     - {name: "github", link: ""}
 - 
   id: 11
-  name: "Aakanshya"
-  surname: "pradhanang"
+  name: "Ayush"
+  surname: "Jha"
   title: "Member of NOSK"
-  thumbnailUrl: aakanshya.jpg
+  thumbnailUrl: ayush.jpg
   team: true
   ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: "https://www.facebook.com/profile.php?id=100015164592000"}
+    - {abbr: "SFD", title: "Organizer", url: "https://ayys.keybase.pub/"}
   social:
     - {name: "github", link: ""}
 -
   id: 13
+  name: "Akhyl"
+  surname: "Jung Chhetri"
+  title: "Member of NOSK"
+  thumbnailUrl: akhyl.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "Organizer", url: "https://twitter.com/akhyl_chhetri"}
+  social:
+    - {name: "github", link: ""}
+- 
+  id: 14
+  name: "Ishan"
+  surname: "Subedi"
+  title: "Member of NOSK"
+  thumbnailUrl: ishan.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SFD", title: "Organizer", url: "http://ikushum.herokuapp.com/"}
+  social:
+    - {name: "github", link: ""}
+- 
+  id: 15
   name: "Krishna"
   surname: "Pandey"
   title: "Member of NOSK"
@@ -63,21 +85,20 @@
   ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
-    - {name: "github", link: ""}
-
-- 
-  id: 14
-  name: "Prakash"
-  surname: "Adhikari"
+    - {name: "github", link: ""}  
+-
+  id: 27
+  name: "Manish"
+  surname: "Ghimire"
   title: "Member of NOSK"
-  thumbnailUrl: prakash.jpg
+  thumbnailUrl: logo.png
   team: true
-  ribbon:
+  ribbon: 
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
     - {name: "github", link: ""}
-- 
-  id: 15
+-
+  id: 28
   name: "Nikhil"
   surname: "Pandey"
   title: "Member of NOSK"
@@ -86,20 +107,9 @@
   ribbon:
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
-    - {name: "github", link: ""}
+    - {name: "github", link: ""}  
 -
-  id: 27
-  name: "Aashish"
-  surname: "Neupane"
-  title: "Member of NOSK"
-  thumbnailUrl: aashish.jpg
-  team: true
-  ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: ""}
-  social:
-    - {name: "github", link: ""}
--
-  id: 28
+  id: 29
   name: "Prashant"
   surname: "Thapa"
   title: "Member of NOSK"
@@ -111,15 +121,15 @@
     - {name: "github", link: ""}
 -
   id: 30
-  name: "Rexab"
-  surname: "Joshi"
+  name: "Prakash"
+  surname: "Adhikari"
   title: "Member of NOSK"
-  thumbnailUrl: logo.png
+  thumbnailUrl: prakash.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
-    - {name: "github", link: ""}
+    - {name: "github", link: ""} 
 -
   id: 32
   name: "Paaru"
@@ -132,20 +142,9 @@
   social:
     - {name: "github", link: ""}
 -
-  id: 34
-  name: "Aasma"
-  surname: "Sharma"
-  title: "Member of NOSK"
-  thumbnailUrl: aasma.jpg
-  team: true
-  ribbon: 
-    - {abbr: "SFD", title: "Organizer", url: ""}
-  social:
-    - {name: "github", link: ""}
--
   id: 35
-  name: "Manish"
-  surname: "Ghimire"
+  name: "Rexab"
+  surname: "Joshi"
   title: "Member of NOSK"
   thumbnailUrl: logo.png
   team: true
@@ -153,3 +152,4 @@
     - {abbr: "SFD", title: "Organizer", url: ""}
   social:
     - {name: "github", link: ""}
+  
